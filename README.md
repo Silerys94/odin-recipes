@@ -5,32 +5,24 @@ This is my first project for The Odin Project. It demonstrates my foundational k
 This project was broken down into several iterations:
 
 ### Iteration 1: Basic Structure
-Created an index.html homepage within the odin-recipes/ directory.
-
-Added standard HTML5 boilerplate and an <h1> heading titled "Odin Recipes".
+1. Created an index.html homepage within the odin-recipes/ directory.
+2. Added standard HTML5 boilerplate and an <h1> heading titled "Odin Recipes".
 
 ### Iteration 2: First Recipe Page
-Created a recipes/ subdirectory.
-
-Added a new HTML file (e.g., lasagna.html) for my first recipe.
-
-Included a link from index.html to this new recipe page and a link back for navigation.
+1. Created a recipes/ subdirectory.
+2. Added a new HTML file (e.g., lasagna.html) for my first recipe.
+3. Included a link from index.html to this new recipe page and a link back for navigation.
 
 ### Iteration 3: Recipe Page Content
 Each recipe page includes:
-
-An image of the finished dish.
-
-A short description of the recipe.
-
-An Ingredients section with an unordered list.
-
-A Steps section with an ordered list.
+- An image of the finished dish.
+- A short description of the recipe.
+- An Ingredients section with an unordered list.
+- A Steps section with an ordered list.
 
 ### Iteration 4: Adding More Recipes
-Added two additional recipes with the same structure.
-
-Updated the index.html page to list all recipe links in an unordered list.
+1. Added two additional recipes with the same structure.
+2. Updated the index.html page to list all recipe links in an unordered list.
 
 ## Features
 - Simple HTML-only website — no CSS or JavaScript (yet).
