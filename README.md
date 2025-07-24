@@ -42,15 +42,15 @@ I originally learned web design back in high school (2009–2012) and was top of
 
 Today is 07/23/2025, and I’m still working a job in insurance that no longer brings me joy. I’ve spent 8 years at an agency now run by a man whose values don’t align with mine. I’m putting in the work now so that I can one day hand in a very cathartic resignation letter.
 
- ## My Future Resignation Letter
- Dearest Bossman,
+## My Future Resignation Letter
+Dearest Bossman,
  
- 🖕🏻      👨🏻 
-   🐛 💤 👔🐛 
-          ⛽️  👢 
-        ⚡️ 8=👊🏻=D💦 
-       🎸  🌂 
-       👢   👢
+.🖕🏻......👨🏻............
+...🐛💤.👔🐛..........
+.........⛽️..👢........
+.......⚡️..8=👊🏻=D💦....
+......🎸...🌂...........
+......👢....👢..........
 
 Love,  
 Silerys
