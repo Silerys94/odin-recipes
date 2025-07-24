@@ -26,7 +26,7 @@ Each recipe page includes:
 
 ## Features
 - Simple HTML-only website — no CSS or JavaScript (yet).
-- Contains three of my mom’s Christmas recipes.
+- Contains three of my favorite recipes.
 - Fully navigable structure with semantic HTML tags.
 
 # A Letter to Me
