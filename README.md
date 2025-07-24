@@ -6,7 +6,7 @@ This project was broken down into several iterations:
 
 ### Iteration 1: Basic Structure
 1. Created an index.html homepage within the odin-recipes/ directory.
-2. Added standard HTML5 boilerplate and an <h1> heading titled "Odin Recipes".
+2. Added standard HTML5 boilerplate and an `<h1>` heading titled "Odin Recipes".
 
 ### Iteration 2: First Recipe Page
 1. Created a recipes/ subdirectory.
